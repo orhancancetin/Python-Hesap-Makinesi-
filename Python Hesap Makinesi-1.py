@@ -2,9 +2,9 @@ print("Hesap makinesine hoşgeldiniz.")
 
 while True:
 
-	number_1 = int(input("İlk sayıyı seçiniz: "))
+	number_1 = float(input("İlk sayıyı seçiniz: "))
 
-	number_2 = int(input("İkinci sayıyı seçiniz: "))
+	number_2 = float(input("İkinci sayıyı seçiniz: "))
 
 	process = input("+,-,*,/ işlemlerinden birini seçiniz: ")
 
